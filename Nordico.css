@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+@font-face {
+    font-family: "Viking";
+    src: url('./FONTE/PR\ Viking.ttf Viking.ttf');
+}
+
+#id {
+    font-family: "Viking";
+    font-size: 120px;
+}

@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+@font-face {
+    font-family: "Viking";
+    src: url('../FONTE/PR\ Viking.ttf');
+}
+
+
+#fundo {
+    height: 5000px;
+    width: 4535px;
+}
+
+#teste {
+    color: rgb(250, 235, 215);
+    font-size: 375px;
+    margin-top: -4710px;
+    margin-left: 1500px;
+    font-family: "Viking";
+}
+
+#two {
+    color: rgb(100, 105, 149);
+    font-size: 120px;
+    margin-left: 550px;
+    margin-top: 200px;
+    font-family: "Viking";
+}
+
+#ege {
+    font-family: "Viking";
+    color: goldenrod;
+    font-size: 220px;
+    margin-top: 1030px;
+    margin-left: 650px;
+}
+
+#caxa {
+    width: 1500px;
+    height: 750px;
+    border: solid 10px black;
+    margin-top: -350px;
+    margin-left: 1700px;
+    font-size: 150px;
+    position: absolute;
+}
+
+#casa {
+    width: 1500px;
+    height: 750px;
+}
+
+#nord {
+    font-family: "Viking";
+    color: cadetblue;
+    font-size: 250px;
+    margin-top: 1000px;
+    margin-left: 650px;
+}
+
+#caixa {
+    width: 1500px;
+    height: 750px;
+    border: solid 10px black;
+    margin-top: -650px;
+    margin-left: 1700px;
+    font-size: 150px;
+    position: absolute;
+}
+
+#castelo {
+    width: 1500px;
+    height: 750px;
+}
+
+#jab {
+    font-family: "Viking";
+    color: salmon;
+    font-size: 220px;
+    margin-top: 900px;
+    margin-left: 600px;
+}
+
+#jes {
+    width: 1500px;
+    height: 750px;
+    border: solid 10px black;
+    margin-top: -760px;
+    margin-left: 1700px;
+    font-size: 150px;
+    position: absolute;
+}
+
+#japa {
+    width: 1500px;
+    height: 750px;
+}
